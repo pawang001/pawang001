@@ -11,7 +11,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawang001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img align="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/pawang001?cardType=level-alternate&theme=vision-friendly-dark&preferLogin=false&Border=FDFDFD&Text=FDFDFD&Title=FDFDFD&Background=151515&Ring=FA8B00&center=true" />
+  <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawang001&bg_color=151515&title_color=ffff&text_color=fff9&layout=compact" />
+  </br>
+  <br />
 </div>
 
 ---
@@ -47,11 +51,11 @@
   <a href="mailto:pawang001@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"  />
   </a>
-  <a href="https://github.com/pawang001" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub"  />
-  </a>
 </div>
 
 ---
 
 🔹 *“Striving for clean, efficient, and scalable code every day!”* 🚀
+
+  ## 
+  <img src="https://komarev.com/ghpvc/?username=pawang001" width=160px/>
